@@ -162,3 +162,5 @@ Validar antes de receber os dados se todos os campos foram preenchidos, caso nã
 > - Apresente a sua implementação completa em um **único repositório público** e com instruções do README.md de como executar/testar a aplicação localmente, não é necessário hospedar ela em nenhum serviço público.
 
 ## 📄 Importante
+
+Esse código não será usado em nenhuma hipótese para qualquer fim a não ser o de avaliação de conhecimentos técnicos.
